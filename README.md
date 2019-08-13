@@ -1,5 +1,5 @@
 # gmail-dot
-Gmail Dot Trick Generator
+Gmail Dot Trick Generator Based with php CLI
 
 # Usage
 #Just fill with your username gmail only and this tool will generate
